@@ -15,27 +15,9 @@ BESL is an online eSports league for competitive tournaments on various games an
 
 # 🛠 Built with:
 
--   CQRS & MediatR
--   ASP.NET Core MVC
--   NUKE Build System
--   EF Core 2.2
--   SignalR
--   Fluent validation
--   Custom exception-based notifications with Redis\*, MediatR & ASP.NET middleware pipelines.
--   Hangfire
--   Sendgrid
--   CloudinaryDotNet
--   SteamWebApi2
--   Steam.Models
--   OpenId.Steam
--   Shouldly
--   Moq
--   MockQueryable
--   Coverlet
--   Polly
--   CodeCov
+-   Spring Boot
 
-# ⚙️ Local setup using Docker
+# ⚙️ Local setup using
 
 The following instructions are tested on `macOS` & `Linux` if you're running a `Windows` machine, you'll have to change certain directory routes in both the `docker-compose` files and `Kestrel` user secrets.
 
